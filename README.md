@@ -19,5 +19,5 @@ continuous development of new technical skills and professional growth.
 
 
 ## 📌 Commitments
-- Accuracy through research   
-- Continuous learning
+Accuracy through research   
+Continuous learning
