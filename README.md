@@ -8,7 +8,7 @@
 An aspiring IT professional with hands-on experience building full-stack applications. A passionate learner committed to the
 continuous development of new technical skills and professional growth.
   
-## 🧩 Competencies
+## 🧩 Core Competencies
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godot-engine&logoColor=white)
@@ -18,6 +18,6 @@ continuous development of new technical skills and professional growth.
 
 
 
-## 📌 Principles
+## 📌 Commitments
 - Accuracy through research   
 - Continuous learning
