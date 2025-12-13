@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Hi, I'm Yuri 👋</h1>
 <p align="center">
-  <strong>Aspiring Software Engineer | Building Real-World Projects</strong><br>
+  <strong>Aspiring Software Engineer</strong><br>
 </p>
 
 ## 👤 About Me
