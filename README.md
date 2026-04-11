@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <h1 align="center">Hi, I'm Yuri 👋</h1>
-<p align="center">
+<!-- <p align="center">
   <strong>Aspiring Software Engineer</strong><br>
-</p>
+</p> -->
 
 ## 👤 About Me
 An aspiring IT professional with hands-on experience building full-stack applications. A passionate learner committed to the
